@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (2.6.3)
+    net-http (0.3.2)
+      uri
+    uri (0.12.1)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  json
+  net-http
+
+BUNDLED WITH
+   2.3.4
